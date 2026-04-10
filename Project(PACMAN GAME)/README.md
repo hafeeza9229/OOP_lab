@@ -190,9 +190,3 @@ Player loses when ghost catches Pacman.
 * Language: Java
 
 ---
-
-```
-
-4. Use W A S D to play
-
----
