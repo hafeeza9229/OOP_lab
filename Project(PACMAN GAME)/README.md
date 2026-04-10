@@ -184,27 +184,13 @@ Player loses when ghost catches Pacman.
 
 ## Author
 
-OOP Lab Project – Pacman Game
-Name: Hafeeza Abdur Rehman
-Registration Number: 2025-CYS-66
-Language: Java
+* OOP Lab Project – Pacman Game
+* Name: Hafeeza Abdur Rehman
+* Registration Number: 2025-CYS-66
+* Language: Java
 
 ---
 
-## How to Run
-
-1. Clone repository
-
-```
-git clone <repo-link>
-```
-
-2. Open in IDE
-
-3. Run main file
-
-```
-Pacman_Game.java
 ```
 
 4. Use W A S D to play
